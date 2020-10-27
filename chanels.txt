@@ -31,3 +31,5 @@ waveigl
 gafallen
 yoda
 nobru
+luginbr
+johnpittertv
