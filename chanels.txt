@@ -33,3 +33,4 @@ yoda
 nobru
 luginbr
 johnpittertv
+hastad
